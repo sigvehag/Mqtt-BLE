@@ -22,5 +22,3 @@ Change Partition Scheme to No OTA(Large App)
 Verify and Upload the code and you should be good to go.
 
 The code will output debug-messages to Serial 115200, so it's probably a good idea to monitor this the first time you run it.
-
-set the Arduino 
